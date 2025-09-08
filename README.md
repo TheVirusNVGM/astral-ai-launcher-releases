@@ -1,50 +1,50 @@
 # 🚀 ASTRAL-AI Launcher
 
-**Умный лаунчер для Minecraft с ИИ-управлением модами**
+**Smart Minecraft launcher with AI-powered mod management**
 
-ASTRAL-AI Launcher - это современный лаунчер для Minecraft, который использует искусственный интеллект для упрощения управления модами и решения конфликтов.
+ASTRAL-AI Launcher is a modern Minecraft launcher that uses artificial intelligence to simplify mod management and resolve conflicts automatically.
 
-## ✨ Возможности
+## ✨ Features
 
-- 🎯 **Визуальная доска модов** - Удобный drag & drop интерфейс для организации модов
-- 🤖 **ИИ-анализ модов** - Автоматическое обнаружение конфликтов и предложение решений
-- 🔐 **Безопасная авторизация** - Вход через аккаунт ASTRAL-AI с OAuth 2.0
-- 📱 **Космический интерфейс** - Красивый современный дизайн с анимациями
-- ⚡ **Быстродействие** - Создан на Rust и Tauri для максимальной производительности
-- 🎮 **Поддержка всех лоадеров** - Работает с Fabric, Forge, NeoForge
+- 🎯 **Visual Mod Board** - Intuitive drag & drop interface for organizing your mods
+- 🤖 **AI-Powered Analysis** - Automatic conflict detection and resolution suggestions
+- 🔐 **Secure Authentication** - Login with ASTRAL-AI account using OAuth 2.0
+- 📱 **Cosmic Interface** - Beautiful modern design with smooth animations
+- ⚡ **High Performance** - Built with Rust and Tauri for maximum speed
+- 🎮 **All Loaders Supported** - Works with Fabric, Forge, NeoForge
 
-## 📥 Скачать
+## 📥 Download
 
-**[➤ Скачать последнюю версию](https://github.com/TheVirusNVGM/astral-ai-launcher-releases/releases/latest)**
+**[➤ Download Latest Version](https://github.com/TheVirusNVGM/astral-ai-launcher-releases/releases/latest)**
 
-> 💡 Выберите файл `ASTRAL-AI Launcher_xxx_x64_en-US.msi` для установки на Windows
+> 💡 Choose the `ASTRAL-AI Launcher_xxx_x64_en-US.msi` file for Windows installation
 
-## 🛠️ Установка
+## 🛠️ Installation
 
-1. **Скачайте** MSI-файл из раздела [Releases](https://github.com/TheVirusNVGM/astral-ai-launcher-releases/releases)
-2. **Запустите** установщик и следуйте инструкциям
-3. **Войдите** в свой аккаунт ASTRAL-AI (или создайте новый)
-4. **Начните** управлять модами с помощью ИИ!
+1. **Download** the MSI file from [Releases](https://github.com/TheVirusNVGM/astral-ai-launcher-releases/releases)
+2. **Run** the installer and follow the setup instructions
+3. **Login** to your ASTRAL-AI account (or create a new one)
+4. **Start** managing your mods with AI assistance!
 
-## 🎮 Системные требования
+## 🎮 System Requirements
 
-- **ОС**: Windows 10/11 (64-bit)
-- **RAM**: 4 GB (рекомендуется 8 GB)
-- **Minecraft**: Java Edition любой версии
-- **Интернет**: Для авторизации и загрузки модов
+- **OS**: Windows 10/11 (64-bit)
+- **RAM**: 4 GB (8 GB recommended)
+- **Minecraft**: Java Edition (any version)
+- **Internet**: Required for authentication and mod downloads
 
-## 🆘 Поддержка
+## 🆘 Support
 
-Если у вас возникли проблемы:
+If you encounter any issues:
 
-1. Проверьте [Issues](https://github.com/TheVirusNVGM/astral-ai-launcher-releases/issues) - возможно, проблема уже решена
-2. Создайте новый Issue с подробным описанием проблемы
-3. Напишите в Discord сообщество ASTRAL-AI
+1. Check [Issues](https://github.com/TheVirusNVGM/astral-ai-launcher-releases/issues) - your problem might already be solved
+2. Create a new Issue with detailed description of your problem
+3. Join our Discord community for ASTRAL-AI
 
-## 🔄 Обновления
+## 🔄 Updates
 
-Лаунчер автоматически проверяет обновления при запуске. Новые версии выходят регулярно с улучшениями ИИ и исправлениями багов.
+The launcher automatically checks for updates on startup. New versions are released regularly with AI improvements and bug fixes.
 
 ---
 
-*Создано с ❤️ командой ASTRAL-AI*
+*Made with ❤️ by the ASTRAL-AI team*
