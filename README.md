@@ -11,11 +11,13 @@ ASTRAL-AI Launcher revolutionizes Minecraft mod management by combining an intui
 ## Why ASTRAL-AI Launcher?
 
 ### 🎯 Visual Mod Board
+
 Transform mod management from a chore into a visual experience. Our drag-and-drop board interface lets you organize mods intuitively, categorize them visually, and see your entire modpack at a glance. No more digging through folders or guessing what mods conflict.
 
 ![Visual Mod Board](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/4.png)
 
 ### 🤖 AI-Powered Modpack Builder
+
 Simply describe what you want, and our AI creates a complete modpack for you. Using advanced RAG (Retrieval-Augmented Generation) architecture with semantic search across 50,000+ mods, the AI understands context, resolves dependencies automatically, and suggests compatible mods that match your vision.
 
 **Example prompts:**
@@ -26,21 +28,25 @@ Simply describe what you want, and our AI creates a complete modpack for you. Us
 ![AI Panel](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/5.png)
 
 ### 🏥 Crash Doctor
+
 Tired of cryptic crash logs? Crash Doctor analyzes your game crashes using AI, identifies root causes, and suggests precise fixes. It can automatically remove conflicting mods, update outdated versions, or recommend compatibility patches—saving hours of manual debugging.
 
 ![Crash Doctor](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/6.png)
 
 ### 📦 Smart Project Management
+
 Organize multiple Minecraft projects with ease. Each project maintains its own mod configuration, version, and settings. Switch between modpacks instantly without manual setup.
 
 ![Project Manager](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/3.png)
 
 ### 🎨 Beautiful Modern Interface
+
 Experience a cosmic-themed UI designed for both functionality and aesthetics. Smooth animations, intuitive navigation, and a clean design make mod management enjoyable rather than frustrating.
 
 ![Main Interface](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/1.png)
 
 ### 👤 Personalized Experience
+
 View and customize your Minecraft skin directly in the launcher. The integrated skin viewer and wardrobe let you preview changes before applying them to your account.
 
 ![Skin Viewer](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/2.png)
@@ -50,6 +56,7 @@ View and customize your Minecraft skin directly in the launcher. The integrated 
 ## Key Features
 
 ### AI Capabilities
+
 - **Intelligent Mod Selection** - AI understands mod relationships and compatibility
 - **Semantic Search** - Find mods by description, not just keywords
 - **Auto-Categorization** - Automatically organize mods into logical categories
@@ -57,6 +64,7 @@ View and customize your Minecraft skin directly in the launcher. The integrated 
 - **Dependency Resolution** - Automatic handling of required dependencies and conflicts
 
 ### Mod Management
+
 - **Visual Drag & Drop Board** - Intuitive mod organization
 - **Category Management** - Create custom categories and organize visually
 - **Auto-Sort** - Let AI categorize your mods automatically
@@ -64,12 +72,14 @@ View and customize your Minecraft skin directly in the launcher. The integrated 
 - **Mod Browser** - Search and add mods directly from Modrinth
 
 ### Performance & Reliability
+
 - **Built with Rust + Tauri** - Native performance, minimal resource usage
 - **Fast Startup** - Optimized loading times
 - **Efficient Storage** - Smart caching and dependency management
 - **Crash Prevention** - AI-powered conflict detection before launch
 
 ### Compatibility
+
 - **All Loaders Supported** - Fabric, Forge, NeoForge, Quilt
 - **Cross-Loader Compatibility** - Mix Fabric and Fabric+ mods intelligently
 - **Version Management** - Handle multiple Minecraft versions seamlessly
@@ -80,6 +90,7 @@ View and customize your Minecraft skin directly in the launcher. The integrated 
 ## Download & Installation
 
 ### System Requirements
+
 - **OS**: Windows 10/11 (64-bit)
 - **RAM**: 4 GB minimum (8 GB recommended)
 - **Minecraft**: Java Edition (any version)
@@ -165,6 +176,7 @@ Sign in once, and your projects sync across devices (coming soon).
 ## Technical Details
 
 ### Architecture
+
 - **Frontend**: React + TypeScript + Vite
 - **Backend**: Rust + Tauri (native performance)
 - **AI Backend**: Python + Flask (RAG architecture with pgvector)
@@ -172,6 +184,7 @@ Sign in once, and your projects sync across devices (coming soon).
 - **AI Models**: DeepSeek R1, OpenAI GPT-4, Claude Sonnet
 
 ### AI Technology
+
 - **RAG System**: Retrieval-Augmented Generation for accurate mod suggestions
 - **Vector Search**: pgvector for semantic similarity matching
 - **Hybrid Search**: Combines vector embeddings with BM25 keyword search
@@ -182,12 +195,14 @@ Sign in once, and your projects sync across devices (coming soon).
 ## Support & Community
 
 ### Getting Help
+
 - Check existing [Issues](https://github.com/TheVirusNVGM/astral-ai-launcher-releases/issues)
 - Report bugs via GitHub Issues
 - Join our Discord community
 - Contact support through the launcher
 
 ### Contributing
+
 We welcome contributions! Check out our main repository for development guidelines.
 
 ---
@@ -195,6 +210,7 @@ We welcome contributions! Check out our main repository for development guidelin
 ## Updates
 
 The launcher automatically checks for updates on startup. New versions include:
+
 - AI model improvements
 - New features and UI enhancements
 - Bug fixes and performance optimizations
