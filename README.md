@@ -14,7 +14,11 @@ ASTRAL-AI Launcher revolutionizes Minecraft mod management by combining an intui
 
 Transform mod management from a chore into a visual experience. Our drag-and-drop board interface lets you organize mods intuitively, categorize them visually, and see your entire modpack at a glance. No more digging through folders or guessing what mods conflict.
 
+<div align="center">
+
 ![Visual Mod Board](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/4.png)
+
+</div>
 
 ### 🤖 AI-Powered Modpack Builder
 
@@ -25,31 +29,51 @@ Simply describe what you want, and our AI creates a complete modpack for you. Us
 - *"Build a tech-focused pack optimized for low-end PCs"*
 - *"Make a vanilla+ experience with quality-of-life improvements"*
 
+<div align="center">
+
 ![AI Panel](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/5.png)
+
+</div>
 
 ### 🏥 Crash Doctor
 
 Tired of cryptic crash logs? Crash Doctor analyzes your game crashes using AI, identifies root causes, and suggests precise fixes. It can automatically remove conflicting mods, update outdated versions, or recommend compatibility patches—saving hours of manual debugging.
 
+<div align="center">
+
 ![Crash Doctor](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/6.png)
+
+</div>
 
 ### 📦 Smart Project Management
 
 Organize multiple Minecraft projects with ease. Each project maintains its own mod configuration, version, and settings. Switch between modpacks instantly without manual setup.
 
+<div align="center">
+
 ![Project Manager](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/3.png)
+
+</div>
 
 ### 🎨 Beautiful Modern Interface
 
 Experience a cosmic-themed UI designed for both functionality and aesthetics. Smooth animations, intuitive navigation, and a clean design make mod management enjoyable rather than frustrating.
 
+<div align="center">
+
 ![Main Interface](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/1.png)
+
+</div>
 
 ### 👤 Personalized Experience
 
 View and customize your Minecraft skin directly in the launcher. The integrated skin viewer and wardrobe let you preview changes before applying them to your account.
 
+<div align="center">
+
 ![Skin Viewer](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/2.png)
+
+</div>
 
 ---
 
