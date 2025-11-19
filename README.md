@@ -4,7 +4,7 @@
 
 ASTRAL-AI Launcher revolutionizes Minecraft mod management by combining an intuitive visual interface with cutting-edge AI technology. Build, organize, and optimize your modpacks effortlessly with intelligent automation that understands your needs.
 
-![Main Menu](https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/1.png)
+![Main Menu]([https://raw.githubusercontent.com/TheVirusNVGM/astral-ai-launcher-releases/master/screenshots/1.png](https://i.imgur.com/uWeR82z.png))
 
 ---
 
